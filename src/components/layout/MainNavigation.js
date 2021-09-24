@@ -12,6 +12,8 @@ function MainNavigation() {
             <NavLink to='/quotes' activeClassName={classes.active}>
               All Quotes
             </NavLink>
+          </li>
+          <li>
             <NavLink to='/new-quote' activeClassName={classes.active}>
               Add Quote
             </NavLink>
