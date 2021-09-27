@@ -16,6 +16,11 @@ const DUMMY_DATA = [
     author: 'Spiderman',
     text: 'With great power comes great responsibility',
   },
+  {
+    id: 'q4',
+    author: 'Thanos',
+    text: 'Fun isnt something one considers when balancing the universe, but this...hehe..does put a smile on my face',
+  },
 ]
 
 function AllQuotes() {
